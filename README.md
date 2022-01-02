@@ -12,4 +12,7 @@ TBD
 # Workshop Hands on Labs
 https://bridgecrew.awsworkshop.io/
 
+# Workshop Instructors
+Kevin Tuffner - ktuffner@riverpointtechnology.com
+
 
