@@ -1,4 +1,9 @@
 # River Point Technology - Shifting Left with Palo Alto Networks & HashiCorp Hands On Lab
 
 Estimated Time to Complete:
-20-25 Minutes
+2-4 Hours
+
+Technologies Part of Workshop:
+Palo Alto Networks Prisma Cloud (Bridgecrew)
+HashiCorp Terraform Cloud or Enterprise
+AWS Cloud Platform
