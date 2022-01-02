@@ -5,3 +5,11 @@
 
 # Technologies Part of Workshop:
 Palo Alto Networks Prisma Cloud (Bridgecrew) / HashiCorp Terraform Cloud or Enterprise / AWS
+
+# Workshop Slides
+TBD
+
+# Workshop Hands on Labs
+https://bridgecrew.awsworkshop.io/
+
+
